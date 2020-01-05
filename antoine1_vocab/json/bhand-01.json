@@ -1,0 +1,73 @@
+[
+  {
+    "author" : "Bhandarkar",
+    "title": "First Book of Sanskrit",
+    "chapter":"Lesson 1",
+    "text": "to go (1P)", 
+    "key": "gam [gacC]"
+  }, 
+  {
+    "text": "to lead or carry (1P)", 
+    "key": "ni (nay)"
+  }, 
+  {
+    "text": "to fall (1P)", 
+    "key": "pat"
+  }, 
+  {
+    "text": "to know or understand (1P)", 
+    "key": "buD (boD)"
+  }, 
+  {
+    "text": "to be, to become (1P)", 
+    "key": "BU (Bav)"
+  }, 
+  {
+    "text": "to protect (1P)", 
+    "key": "rakz"
+  }, 
+  {
+    "text": "to speak (1P)", 
+    "key": "vad"
+  }, 
+  {
+    "text": "to dwell (1P)", 
+    "key": "vas"
+  }, 
+  {
+    "text": "to move {flow} (1P)", 
+    "key": "sf"
+  }, 
+  {
+    "text": "to go, to walk (1P)", 
+    "key": "car"
+  }, 
+  {
+    "text": "to live (1P)", 
+    "key": "jIv"
+  }, 
+  {
+    "text": "to abandon (1P)", 
+    "key": "tyaj"
+  }, 
+  {
+    "text": "to burn (1P)", 
+    "key": "dah"
+  }, 
+  {
+    "text": "to bow to, to salute (1P)", 
+    "key": "nam"
+  }, 
+  {
+    "text": "to cook", 
+    "key": "pac"
+  },
+  {
+    "text": "to eat (2P)", 
+    "key": "ad"
+  }, 
+  {
+    "text": "to be (2P)", 
+    "key": "as"
+  }
+]

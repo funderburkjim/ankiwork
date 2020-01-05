@@ -1,0 +1,51 @@
+
+* json folder:  
+all the .json files from The downloaded glitch app.
+  ~/Documents/GitHub/whispering-flower/public
+These are vocabulary files of form:
+[{"text": "definition of sanskrit word in key field, from Antoine Vol. 1",
+ {"key":"sanskrit-word in slp1 syntax"}
+ ...
+]
+
+The json files are mostly named as:
+ ant1-x.json  where x is the chapter of Antoine vol I.,
+    and x goes from 2 to 26.
+Exceptions: 
+  ant1-7a, ant1-14a  recapitulations (extra vocabulary)
+  ant1-21-22  there is no vocabulary with chapter 21.
+
+There are also files:
+- hit01.json   20 words from beginning of hitopadesha
+- bhand-01.json, bhand-01a.json  from Lesson 1 of 
+    text "First Book of Sanskrit" by Bhandarkar"
+* csv folder
+  Each json/ant1-x.json file converted to csv/ant1-x.csv
+  See next for details
+* csv ready for import to anki
+Tab separated.
+Three fields, in this order
+- key == front of card  (Sanskrit word, in slp1 spelling)
+- text == back of card  (definition of sanskrit word)
+- tag .  records from file ant1-x.json are given tag 'x'.
+* rename json files so sorted
+ant1-2.json -> ant1-02.json
+Similarly for 3,4,5,6,7,7a,8,9.   The rest are ok.
+* convert each json file to a csv file
+This is accomplished by the redo_json_csv.sh script,
+which runs an appropriate invocation of json_to_csv.py for each json file of
+interest. For example:
+python3 json_to_csv.py antoine1-10 json/ant1-10.json csv/ant1-10.csv
+* redo_json_csv_log.txt
+shows how many records (words) are in each file.
+The total number is 940.
+Note: It is not known whether there are duplicates.
+* antoine1_vocab.csv
+This is concatenation of all the individual csv files
+cat csv/*.csv > antoine1_vocab.csv
+check: antoine1_vocab.csv has 940 lines, as expected from above.
+* duplicates?
+  It is not know if there are duplicates
+* TODO Nominative singular form for nouns  
+  This is the 'Apte convention'
+  Gender is indicated only for a few nominals

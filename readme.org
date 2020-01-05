@@ -1,0 +1,28 @@
+
+* Dec 29, 2019
+* 32bit Anki (from gitbash) and with previous data:
+"C:\Program Files (x86)\Anki\anki.exe" -b ~/AppData/roaming/Anki2_32bit
+
+
+* 64bit Anki (from git bash) and with special folder 
+Downloaded 12/29/2019 anki-2.1.15-windows
+https://apps.ankiweb.net/downloads/current/
+In git bash terminal:
+"C:\Program Files\Anki\anki.exe" -b ~/Documents/ankiwork/anki2a
+
+* Standard location for anki data folder
+C:\Users\Jim\AppData\Roaming\anki2
+
+* Import text file
+fields separated by ','   or ';'  or '\t'
+fields in text file correspond to fields in notes
+Can choose what deck to put the cards in BUT
+if 'deck override option' set for a template, the cards will go to that deck.
+* get all json files from whispering-flower glitch application
+#cp  ~/Documents/GitHub/whispering-flower/public/*.json
+* Create Deck 'Antoine I Vocabulary'
+from antoine1_vocab_edit.csv
+3 fields (Front, Back, Tag)  as shown above.
+
+
+* hitophrases

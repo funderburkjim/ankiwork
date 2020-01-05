@@ -1,0 +1,29 @@
+30 records loaded from json/ant1-02.json and written to csv/ant1-02.csv
+45 records loaded from json/ant1-03.json and written to csv/ant1-03.csv
+39 records loaded from json/ant1-04.json and written to csv/ant1-04.csv
+33 records loaded from json/ant1-05.json and written to csv/ant1-05.csv
+36 records loaded from json/ant1-06.json and written to csv/ant1-06.csv
+42 records loaded from json/ant1-07.json and written to csv/ant1-07.csv
+50 records loaded from json/ant1-07a.json and written to csv/ant1-07a.csv
+39 records loaded from json/ant1-08.json and written to csv/ant1-08.csv
+36 records loaded from json/ant1-09.json and written to csv/ant1-09.csv
+30 records loaded from json/ant1-10.json and written to csv/ant1-10.csv
+28 records loaded from json/ant1-11.json and written to csv/ant1-11.csv
+45 records loaded from json/ant1-12.json and written to csv/ant1-12.csv
+27 records loaded from json/ant1-13.json and written to csv/ant1-13.csv
+33 records loaded from json/ant1-14.json and written to csv/ant1-14.csv
+58 records loaded from json/ant1-14a.json and written to csv/ant1-14a.csv
+36 records loaded from json/ant1-15.json and written to csv/ant1-15.csv
+29 records loaded from json/ant1-16.json and written to csv/ant1-16.csv
+24 records loaded from json/ant1-17.json and written to csv/ant1-17.csv
+27 records loaded from json/ant1-18.json and written to csv/ant1-18.csv
+19 records loaded from json/ant1-19.json and written to csv/ant1-19.csv
+38 records loaded from json/ant1-20.json and written to csv/ant1-20.csv
+42 records loaded from json/ant1-21-22.json and written to csv/ant1-21-22.csv
+52 records loaded from json/ant1-23.json and written to csv/ant1-23.csv
+26 records loaded from json/ant1-24.json and written to csv/ant1-24.csv
+25 records loaded from json/ant1-25.json and written to csv/ant1-25.csv
+51 records loaded from json/ant1-26.json and written to csv/ant1-26.csv
+
+
+940 records total

@@ -1,0 +1,122 @@
+[
+  {
+    "text": "P1 draw,pull", 
+    "key": "kfz karzati"
+  }, 
+  {
+    "text": "P1 play", 
+    "key": "krIq krIqati"
+  }, 
+  {
+    "text": "U1 dig", 
+    "key": "Kan Kanati-Kanate"
+  }, 
+  {
+    "text": "P1 eat", 
+    "key": "KAd KAdati"
+  }, 
+  {
+    "text": "P1 move", 
+    "key": "car carati"
+  }, 
+  {
+    "text": "P1 move", 
+    "key": "cal calati"
+  }, 
+  {
+    "text": "P1 conquer", 
+    "key": "ji jayati"
+  }, 
+  {
+    "text": "P1 live,survive", 
+    "key": "jIv jIvati"
+  }, 
+  {
+    "text": "P1 abandon,leave", 
+    "key": "tyaj tyajati"
+  }, 
+  {
+    "text": "P1 burn", 
+    "key": "dah dahati"
+  }, 
+  {
+    "text": "P1 run,melt", 
+    "key": "dru dravati"
+  }, 
+  {
+    "text": "U1 run,wash", 
+    "key": "DAv DAvati-DAvate"
+  }, 
+  {
+    "text": "P1 salute,bow", 
+    "key": "nam namati"
+  }, 
+  {
+    "text": "U1 lead", 
+    "key": "nI nayati-nayate"
+  }, 
+  {
+    "text": "U1 cook", 
+    "key": "pac pacati-pacate"
+  }, 
+  {
+    "text": "P1 fall", 
+    "key": "pat patati"
+  }, 
+  {
+    "text": "U1 know", 
+    "key": "buD boDati-boDate"
+  }, 
+  {
+    "text": "P1 be,become", 
+    "key": "BU Bavati"
+  }, 
+  {
+    "text": "P1 walk,roam", 
+    "key": "Bram Bramati"
+  }, 
+  {
+    "text": "U1 sacrifice", 
+    "key": "yaj yajati-yajate"
+  }, 
+  {
+    "text": "P1 protect", 
+    "key": "rakz rakzati"
+  }, 
+  {
+    "text": "P1 grow", 
+    "key": "ruh rohati"
+  }, 
+  {
+    "text": "P1 speak,talk", 
+    "key": "vad vadati"
+  }, 
+  {
+    "text": "U1 sow", 
+    "key": "vap vapati-vapate"
+  }, 
+  {
+    "text": "P1 dwell", 
+    "key": "vas vasati"
+  }, 
+  {
+    "text": "U1 carry,flow", 
+    "key": "vah vahati-vahate"
+  }, 
+  {
+    "text": "P1 go", 
+    "key": "vraj vrajati"
+  }, 
+  {
+    "text": "P1 praise", 
+    "key": "SaMs SaMsati"
+  }, 
+  {
+    "text": "P1 go", 
+    "key": "sf sarati"
+  }, 
+  {
+    "text": "P1 remember", 
+    "key": "smf smarati"
+  }
+]

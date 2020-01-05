@@ -1,0 +1,27 @@
+
+python3 json_to_csv.py antoine1-02 json/ant1-02.json csv/ant1-02.csv
+python3 json_to_csv.py antoine1-03 json/ant1-03.json csv/ant1-03.csv
+python3 json_to_csv.py antoine1-04 json/ant1-04.json csv/ant1-04.csv
+python3 json_to_csv.py antoine1-05 json/ant1-05.json csv/ant1-05.csv
+python3 json_to_csv.py antoine1-06 json/ant1-06.json csv/ant1-06.csv
+python3 json_to_csv.py antoine1-07 json/ant1-07.json csv/ant1-07.csv
+python3 json_to_csv.py antoine1-07a json/ant1-07a.json csv/ant1-07a.csv
+python3 json_to_csv.py antoine1-08 json/ant1-08.json csv/ant1-08.csv
+python3 json_to_csv.py antoine1-09 json/ant1-09.json csv/ant1-09.csv
+python3 json_to_csv.py antoine1-10 json/ant1-10.json csv/ant1-10.csv
+python3 json_to_csv.py antoine1-11 json/ant1-11.json csv/ant1-11.csv
+python3 json_to_csv.py antoine1-12 json/ant1-12.json csv/ant1-12.csv
+python3 json_to_csv.py antoine1-13 json/ant1-13.json csv/ant1-13.csv
+python3 json_to_csv.py antoine1-14 json/ant1-14.json csv/ant1-14.csv
+python3 json_to_csv.py antoine1-14a json/ant1-14a.json csv/ant1-14a.csv
+python3 json_to_csv.py antoine1-15 json/ant1-15.json csv/ant1-15.csv
+python3 json_to_csv.py antoine1-16 json/ant1-16.json csv/ant1-16.csv
+python3 json_to_csv.py antoine1-17 json/ant1-17.json csv/ant1-17.csv
+python3 json_to_csv.py antoine1-18 json/ant1-18.json csv/ant1-18.csv
+python3 json_to_csv.py antoine1-19 json/ant1-19.json csv/ant1-19.csv
+python3 json_to_csv.py antoine1-20 json/ant1-20.json csv/ant1-20.csv
+python3 json_to_csv.py antoine1-21-22 json/ant1-21-22.json csv/ant1-21-22.csv
+python3 json_to_csv.py antoine1-23 json/ant1-23.json csv/ant1-23.csv
+python3 json_to_csv.py antoine1-24 json/ant1-24.json csv/ant1-24.csv
+python3 json_to_csv.py antoine1-25 json/ant1-25.json csv/ant1-25.csv
+python3 json_to_csv.py antoine1-26 json/ant1-26.json csv/ant1-26.csv
