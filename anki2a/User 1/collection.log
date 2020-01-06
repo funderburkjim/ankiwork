@@ -1097,3 +1097,6 @@
 [1578190055] sched.py:answerCard(): 
 [1578190055] cards.py:flushSched(): {'data': '', 'did': 1578189549677, 'due': 7, 'factor': 2500, 'flags': 0, 'id': 1578189751076, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1578190055, 'nid': 1578189751017, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1, 'wasNew': False}
 [1578190055] sched.py:getCard(): {'data': '', 'did': 1578189549677, 'due': 1578190463, 'factor': 0, 'flags': 0, 'id': 1578189751082, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1578189798, 'nid': 1578189751020, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1578255713] collection.py:__init__(): C:\Users\Jim\Documents\Github\ankiwork\anki2a\User 1\collection.anki2, 2.1.15
+[1578255713] sched.py:_updateCutoff(): 7, 1578301200
+[1578255713] sched.py:unburyCards(): []

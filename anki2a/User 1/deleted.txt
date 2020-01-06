@@ -3768,3 +3768,14 @@ nid	mid	fields
 1577746187405	1577652741654	iha	ind. here
 1577746187406	1577652741654	mUlyam	n. price
 1577746187407	1577652741654	Alasyam	n. laziness
+1578189751017	1577652741639	hitopadeSa	friendly advice, salutary instruction
+1578189751018	1577652741639	prastAvikA	introduction
+1578189751019	1577652741639	sidDiH sADye satAm astu	May success attend the good in their undertakings (in the object they wish to accomplish)
+1578189751020	1577652741639	prasAdAt tasya DUrjaweH	by the favour of that Dhurjati
+1578189751021	1577652741639	DUrjawi	"having matted locks like a burden" (N. of Siva)
+1578189751022	1577652741639	jAhnavIPenaleKeva	like a streak of the foam of the Ganges
+1578189751023	1577652741639	yanmUrDni SaSinaH kalA	on whose head there is a digit of the moon
+1578189751024	1577652741639	SrutaH hitopadeSaH ayam	This Hitopadesa  when studied (lit., carefully attended to)
+1578189751025	1577652741639	pAwavam saMskftoktizu	proficiency [cleverness] in elegant speeches
+1578189751026	1577652741639	vAcAm sarvatra vEcitryam	a variety of expression in every department
+1578189751027	1577652741639	nItividyAM dadAti ca	and gives a knowledge of the conduct of human affairs

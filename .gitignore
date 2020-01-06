@@ -2,3 +2,6 @@ temp*
 *~
 __pycache__
 anki2a/User 1/backups
+# for now at least, don't update the files created by anki
+anki2a
+anki2a/prefs21.db
